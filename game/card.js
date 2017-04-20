@@ -1,6 +1,6 @@
 /**
-  Exloding Ketchup. 
-  A Exploding Kittens clone without kittens.
+  Exloding Kittens Clone
+  A Exploding Kittens clone with kittens.
   Copyright (C) 2016  Mikunj Varsani
 
   This program is free software: you can redistribute it and/or modify
